@@ -15,4 +15,4 @@ DESCRIPTION
       The CSV file containing the file status information
 
 FILE
-    /usr/local/share/gridlabd/openfido/filestat/__init__.py
+    `/usr/local/share/gridlabd/openfido/filestat/__init__.py`
