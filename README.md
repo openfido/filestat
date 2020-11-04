@@ -1,4 +1,4 @@
-OpenFIDO Library Documentation: package filestat
+OpenFIDO Library Documentation: filestat
 
 NAME
     filestat - OpenFIDO filestat pipeline
