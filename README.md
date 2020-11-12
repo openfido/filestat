@@ -1,10 +1,8 @@
-OpenFIDO Library Documentation: filestat
-
 NAME
     filestat - OpenFIDO filestat pipeline
 
 DESCRIPTION
-    This pipeline creates a CSV file containing the file status of the input files.
+    This pipeline creates a CSV file name containing the file status of the input files.
     
     INPUTS
     
@@ -14,5 +12,9 @@ DESCRIPTION
     
       The CSV file containing the file status information
 
-FILE
-    `/usr/local/share/openfido/filestat/__init__.py`
+PACKAGE CONTENTS
+
+
+FUNCTIONS
+    main(inputs, outputs, options)
+
